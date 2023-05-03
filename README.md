@@ -1,6 +1,6 @@
 # SkimLit
 
-Skimlit is a NLP project which helps convert attributes to headings such as Result , Methods , Objecttives , Conclusions and Background for easier reading and analysis
+Skimlit is a NLP project which helps convert attributes to headings such as Result , Methods , Objectives , Conclusions and Background for easier reading and analysis
 
 
 #MODEL
